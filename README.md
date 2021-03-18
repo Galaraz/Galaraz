@@ -2,9 +2,6 @@
 #### working
 ![working](https://i.ibb.co/kQdWppS/Face.png)
 
--por que galaraz
--working
-
 Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
