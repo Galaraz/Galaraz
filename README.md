@@ -1,5 +1,3 @@
-[![Capa GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/Galaraz)
-
 # About Me
 
 Hello! 👋 I'm Joao Victor, a programming enthusiast and digital adventurer. My nickname "Galaraz" originated from my childhood passion for being a gentleman in code and adventures. Inspired by Galahad (also known as Galaaz or Gwalchavad), one of the courageous knights of the Round Table, known for being one of the few to achieve the Holy Grail, I decided to adopt this name as a representation of my pursuit of excellence in code and digital adventures.
