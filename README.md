@@ -10,15 +10,15 @@ Feel free to explore, contribute, and follow along with my journeys in the world
 
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/diego-araujo1985/" target="_blank">
-<img align="center" alt="diego-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
+<a href="https://www.linkedin.com/in/joao-victor-solutio/" target="_blank">
+<img align="center" alt="joaovictor-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
 </a>
 
 <a href="https://www.instagram.com/joaovrocha.dev/" target="_blank">
-<img align="center" alt="diego-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
+<img align="center" alt="joaovictor-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
 </a>
 <a href="https://www.facebook.com/joaovictor.rocha.104" target="_blank">
-<img align="center" alt="diego-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="max-width:100%;">
+<img align="center" alt="joaovictor-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="max-width:100%;">
 </a>
  
 ### Main Skills:
